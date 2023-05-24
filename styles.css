@@ -1,6 +1,7 @@
-#hod{
+.holder{
 	flex-wrap:wrap;
 	display:flex;
 	justify-content:space-evenly;
+	
 }
 /* Your CSS Code here. */
